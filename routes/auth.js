@@ -1,5 +1,6 @@
 /*
-   Login: /api/login
+   Login
+   Ruta: /api/login
 */
 
 const { Router } = require('Express');
